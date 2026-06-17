@@ -1,63 +1,101 @@
-### Olá, eu sou Rafael Roman Matos, Tenho 29A, Sou tecnico em automação industrial pelo IFES, estudante de Análise e Desenvolvimento de Sistemas no IFES, estou cada vez mais entusiasmado e determinado em migrar minha area de atuação profissional, embora que, existam boas correlações entre as duas areas. A tecnologia é essencial e literalmente, salva milhoes de vida. Me adimira dia apos dia. Conheça um pouco do meu pessoal e profissional com os badges abaixo. fique a vontade para me contatar, seja para network, ou troca de conhecimentos. Será sempre uma honra.
+# 👋 Olá, eu sou Rafael Roman Matos
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rafaelromanifes@gmail.com)[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527999655084)[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-roman-02a165195/)![WEBSITE](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+🎓 Técnico em Automação Industrial pelo IFES  
+💻 Estudante de Análise e Desenvolvimento de Sistemas (IFES)  
+⚙️ Técnico em Automação II na Suzano  
+🚀 Apaixonado por tecnologia, desenvolvimento de software e automação industrial
 
-### Índices:<br>
- </a> 
-    <a href="https://github.com/romanuser?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/romanuser?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-     <a href="https://github.com/romanuser?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/romanuser?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+Tenho 29 anos e estou em constante evolução profissional, unindo minha experiência em automação industrial ao universo do desenvolvimento de software.
 
-### Tecnologias que já possuo conhecimento:<br><br>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+Acredito que a tecnologia é uma das maiores ferramentas de transformação da sociedade, capaz de melhorar processos, conectar pessoas e impactar milhões de vidas diariamente.
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
+Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web, banco de dados, computação em nuvem, automação industrial e integração de sistemas.
+
+Seja para networking, troca de experiências, desenvolvimento de projetos ou oportunidades profissionais, será um prazer conectar-me com você!
+
+---
+
+## 🌐 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelromanifes@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527999655084)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-roman-02a165195/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanuser)
+
+---
+
+## 📊 Estatísticas
+
+<a href="https://github.com/romanuser?tab=repositories&sort=stargazers">
+    <img
+        alt="Total de estrelas"
+        title="Total de estrelas GitHub"
+        src="https://custom-icon-badges.demolab.com/github/stars/romanuser?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+</a>
+
+<a href="https://github.com/romanuser?tab=followers">
+    <img
+        alt="Seguidores"
+        title="Me siga no GitHub"
+        src="https://custom-icon-badges.demolab.com/github/followers/romanuser?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+</a>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Front-end
+<p>
+<img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+</p>
+
+<br><br>
+
+### Back-end
+<p>
+<img align="left" alt="NodeJS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+</p>
+
+<br><br>
+
+### Banco de Dados
+<p>
+<img align="left" alt="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+</p>
+
+<br><br>
+
+### Automação Industrial
+- Siemens TIA Portal
+- CLP S7-1200 e S7-1500
+- PROFINET
+- Ethernet/IP
+- IHMs Siemens
+- Inversores e Servodrives
+- Factory I/O
+- Instrumentação Industrial
+
+---
+
+## 🎯 Atualmente estudando
+
+- React
+- TypeScript
+- Node.js
+- MongoDB
+- Cloud Computing
+- Desenvolvimento Full Stack
+- Segurança de Redes
+
+---
+
+> "A melhor maneira de prever o futuro é criá-lo."
