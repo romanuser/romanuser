@@ -17,14 +17,6 @@
 
 ## 📊 Estatísticas
 
-<a href="https://github.com/romanuser?tab=repositories&sort=stargazers">
-    <img
-        alt="Total de estrelas"
-        title="Total de estrelas GitHub"
-        src="https://custom-icon-badges.demolab.com/github/stars/romanuser?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-    />
-</a>
-
 <a href="https://github.com/romanuser?tab=followers">
     <img
         alt="Seguidores"
