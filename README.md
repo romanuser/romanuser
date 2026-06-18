@@ -4,15 +4,6 @@
 💻 Estudante de Análise e Desenvolvimento de Sistemas (IFES)  
 ⚙️ Técnico em Automação II na Suzano  
 🚀 Apaixonado por tecnologia, desenvolvimento de software e automação industrial
-
-Tenho 29 anos e estou em constante evolução profissional, unindo minha experiência em automação industrial ao universo do desenvolvimento de software.
-
-Acredito que a tecnologia é uma das maiores ferramentas de transformação da sociedade, capaz de melhorar processos, conectar pessoas e impactar milhões de vidas diariamente.
-
-Atualmente, venho aprofundando meus conhecimentos em desenvolvimento web, banco de dados, computação em nuvem, automação industrial e integração de sistemas.
-
-Seja para networking, troca de experiências, desenvolvimento de projetos ou oportunidades profissionais, será um prazer conectar-me com você!
-
 ---
 
 ## 🌐 Contato
