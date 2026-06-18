@@ -57,10 +57,15 @@ Seja para networking, troca de experiências, desenvolvimento de projetos ou opo
   />
 
 
-<br></br>
+
+
+
+
+
 
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
