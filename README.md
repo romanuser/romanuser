@@ -23,7 +23,7 @@ Seja para networking, troca de experiências, desenvolvimento de projetos ou opo
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romanuser)
 
 ---
-
+<br></br>
 ## 📊 Estatísticas
 
 <a href="https://github.com/romanuser?tab=repositories&sort=stargazers">
@@ -63,12 +63,12 @@ Seja para networking, troca de experiências, desenvolvimento de projetos ou opo
 
 
 
-
+<br></br
 ---
 <p>
 
 ## 🛠️ Tecnologias e Ferramentas
-</p>
+
 ### Front-end
 <p>
 <img align="left" alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
