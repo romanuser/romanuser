@@ -58,6 +58,7 @@ Seja para networking, troca de experiências, desenvolvimento de projetos ou opo
   />
 
 </p>
+<br></br>
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
