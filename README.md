@@ -24,6 +24,8 @@ Seja para networking, troca de experiências, desenvolvimento de projetos ou opo
 
 ---
 <br></br>
+<br></br>
+<br></br>
 ## 📊 Estatísticas
 
 <a href="https://github.com/romanuser?tab=repositories&sort=stargazers">
