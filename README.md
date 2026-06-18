@@ -2,7 +2,7 @@
 
 🎓 Técnico em Automação Industrial   
 💻 Estudante de Análise e Desenvolvimento de Sistemas (IFES)  
-⚙️ Técnico em Automação II na Suzano S.A - UNBC - Aracruz 
+⚙️ Técnico em Automação II na Suzano S.A 
 🚀 Apaixonado por tecnologia, desenvolvimento de software e automação industrial
 ---
 
