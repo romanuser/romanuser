@@ -5,7 +5,6 @@
 ⚙️ Técnico em Automação II na Suzano
 
 🚀 Apaixonado por tecnologia, desenvolvimento de software e automação industrial
-
 ---
 
 ## 🌐 Contato
