@@ -3,8 +3,8 @@
 🎓 Técnico em Automação Industrial   
 💻 Estudante de Análise e Desenvolvimento de Sistemas (IFES)  
 ⚙️ Técnico em Automação II na Suzano
-
 🚀 Apaixonado por tecnologia, desenvolvimento de software e automação industrial
+
 ---
 
 ## 🌐 Contato
